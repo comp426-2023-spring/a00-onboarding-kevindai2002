@@ -1,0 +1,8 @@
+Install checked: 
+
+SYSTEM:	Darwin kevins-mbp-36.wireless-1x.unc.edu 21.6.0 Darwin Kernel Version 21.6.0: Sat Jun 18 17:07:25 PDT 2022; root:xnu-8020.140.41~1/RELEASE_X86_64 x86_64
+SHELL:	[/bin/bash]
+GIT:	[/usr/local/bin/git] git version 2.37.2
+VIM:	[/usr/bin/vim] VIM - Vi IMproved 8.2 (2019 Dec 12, compiled Jun 17 2022 21:25:24)
+CURL:	[/Users/kevindai/opt/anaconda3/bin/curl] curl 7.71.1 (x86_64-apple-darwin13.4.0) libcurl/7.71.1 OpenSSL/1.1.1k zlib/1.2.11 libssh2/1.9.0
+NODE:	[/Users/kevindai/.nvm/versions/node/v18.13.0/bin/node] v18.13.0
